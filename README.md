@@ -48,7 +48,7 @@ pip install -r requirements.txt
 
 Or manually install key libraries:
 pip install pandas matplotlib seaborn plotly
-# Optional for dashboard
+# Dashboard
 pip install streamlit
 
 4. Launch the Jupyter Notebook
